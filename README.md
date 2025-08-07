@@ -29,14 +29,6 @@ Below are screenshots and videos showcasing Reconborne in action. These demonstr
 - **Sample Report**: Example markdown report generated after a scan.
   ![Sample Report](https://github.com/vylarion/reconborne/blob/05578e0657915721e56730b78eae6e6976248721/Assets/Demo%203.png)
 
-### Videos
-- **Quick Scan Demo**: A short video showing a quick scan on a sample target.
-  [![Quick Scan Demo](https://via.placeholder.com/800x400.png?text=Quick+Scan+Video+Thumbnail)](https://example.com/reconborne-quick-scan.mp4)
-- **Detailed Scan Walkthrough**: A comprehensive walkthrough of a deep scan, including configuration and report generation.
-  [![Detailed Scan Walkthrough](https://via.placeholder.com/800x400.png?text=Deep+Scan+Video+Thumbnail)](https://example.com/reconborne-deep-scan.mp4)
-
-*Note*: Replace placeholder images and video links with actual assets from your project. Upload screenshots to the repository (e.g., in a `screenshots/` folder) and videos to a hosting platform like YouTube or Vimeo for embedding.
-
 ## Features
 - **Technology Stack Detection**: Identifies CMS, frameworks, servers, programming languages, databases, and security tools using Wappalyzer, BuiltWith, and custom fingerprinting.
 - **SSL/TLS Certificate Analysis**: Evaluates certificate details, security posture, vulnerabilities, and trust levels.
