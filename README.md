@@ -19,9 +19,8 @@
 
 ## Demo
 
-Below are screenshots and videos showcasing Reconborne in action. These demonstrate the tool's user interface, scan progress, and sample output reports.
+Below are screenshots showcasing Reconborne in action. These demonstrate the tool's user interface, scan progress, and sample output reports.
 
-### Screenshots
 - **Initiation**: Starting a scan with the command-line interface.
   ![Scan Initiation](https://github.com/vylarion/reconborne/blob/05578e0657915721e56730b78eae6e6976248721/Assets/Demo1.png)
 - **Progress Output**: Real-time progress tracking with the rich console interface.
